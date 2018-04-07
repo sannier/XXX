@@ -1,0 +1,5 @@
+void RunTests()
+{
+}
+
+FILE* DBGFILE;
